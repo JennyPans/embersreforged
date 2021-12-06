@@ -3,9 +3,18 @@
 # Ignore everything
 *
 # Recursively allow files under subtree
+
+# gradle
+.gradle
 !/gradle
 !build.gradle
 !gradlew
 !gradlew.bat
+
+# source
 !/src
+
+# gitg
 !.gitignore
+!README.md
+!LICENSE
