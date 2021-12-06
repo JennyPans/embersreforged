@@ -1,6 +1,6 @@
-package main.java.embersreforged.common.item;
+package embersreforged.common.item;
 
-import main.java.embersreforged.EmbersReforged;
+import embersreforged.EmbersReforged;
 import net.minecraft.world.item.CreativeModeTab;
 import net.minecraft.world.item.Item;
 import net.minecraftforge.eventbus.api.IEventBus;

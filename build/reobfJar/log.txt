@@ -1,4 +1,4 @@
-Java Launcher: C:\Users\jenny\.p2\pool\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.1.v20211116-1657\jre\bin\java.exe
+Java Launcher: C:\Users\jenny\.gradle\jdks\jdk-17.0.1+12\bin\java.exe
 Arguments: '--in-jar, C:\Users\jenny\Downloads\EmbersRekindledReforged\build\libs\EmbersReforged-1.0.jar, --out-jar, C:\Users\jenny\Downloads\EmbersRekindledReforged\build\reobfJar\output.jar, --srg-in, C:\Users\jenny\Downloads\EmbersRekindledReforged\build\createMcpToSrg\output.tsrg, --live'
 Classpath:
  - C:\Users\jenny\.gradle\caches\forge_gradle\maven_downloader\net\md-5\SpecialSource\1.10.0\SpecialSource-1.10.0-shaded.jar
@@ -94,13 +94,13 @@ Loading mappings... 50%
 0 packages, 6288 classes, 28369 fields, 52743 methods
 Remapping final jar
 Remapping jar...  5%
-Remapping jar... 14%
-Remapping jar... 24%
-Remapping jar... 33%
-Remapping jar... 43%
-Remapping jar... 52%
-Remapping jar... 62%
-Remapping jar... 71%
-Remapping jar... 81%
-Remapping jar... 90%
+Remapping jar... 11%
+Remapping jar... 21%
+Remapping jar... 32%
+Remapping jar... 42%
+Remapping jar... 53%
+Remapping jar... 63%
+Remapping jar... 74%
+Remapping jar... 84%
+Remapping jar... 95%
 Remapping jar... 100%

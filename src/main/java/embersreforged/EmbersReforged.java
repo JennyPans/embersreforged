@@ -1,6 +1,6 @@
-package main.java.embersreforged;
+package embersreforged;
 
-import main.java.embersreforged.common.item.Items;
+import embersreforged.common.item.Items;
 import net.minecraftforge.common.MinecraftForge;
 import net.minecraftforge.eventbus.api.IEventBus;
 import net.minecraftforge.fml.common.Mod;

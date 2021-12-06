@@ -5,5 +5,5 @@ Specification-Version: 1
 Implementation-Title: EmbersRekindledReforged
 Implementation-Version: 1.0
 Implementation-Vendor: examplemodsareus
-Implementation-Timestamp: 2021-12-04T17:58:32+0100
+Implementation-Timestamp: 2021-12-07T00:09:21+0100
 
