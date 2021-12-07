@@ -11,7 +11,7 @@
 !gradlew.bat
 
 # source
-!/src
+!/src/**
 
 # git
 !.gitignore
