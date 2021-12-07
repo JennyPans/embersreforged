@@ -2,15 +2,17 @@
 
 # Ignore everything
 *
-# Recursively allow files under subtree
 
+# Recursively allow files under subtree
 # gradle
 !/gradle
+!/gradle/**
 !build.gradle
 !gradlew
 !gradlew.bat
 
 # source
+!/src
 !/src/**
 
 # git
