@@ -4,7 +4,7 @@ import embersreforged.common.item.Items;
 import net.minecraft.world.item.CreativeModeTab;
 import net.minecraft.world.item.ItemStack;
 
-public class CreativeModTabManager {
+public class Tabs {
 
     public static final CreativeModeTab EMBERS_REFORGED_TAB = new CreativeModeTab("embersReforgedTab") {
         @Override

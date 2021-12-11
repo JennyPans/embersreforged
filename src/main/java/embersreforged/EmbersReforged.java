@@ -1,5 +1,7 @@
 package embersreforged;
 
+import embersreforged.common.block.Blocks;
+import embersreforged.common.block.entity.BlockEntitiesTypes;
 import embersreforged.common.item.Items;
 import net.minecraftforge.common.MinecraftForge;
 import net.minecraftforge.eventbus.api.IEventBus;
@@ -13,9 +15,11 @@ public class EmbersReforged {
 	
 	public EmbersReforged() {
 		IEventBus eventBus = FMLJavaModLoadingContext.get().getModEventBus();
-		
+
+		Blocks.register(eventBus);
 		Items.register(eventBus);
-		
+		BlockEntitiesTypes.register(eventBus);
+
 		MinecraftForge.EVENT_BUS.register(this);
 	}
 }
